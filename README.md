@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AswiN-7
 - 👀 I’m interested in solving problems
-- 🌱 I’m currently learning ML
+- 🌱 I’m currently learning NLP
 - 💞️ I’m looking to collaborate on working on open source projects
 - 📫 How to reach  email- aswin18027@cse.ssn.edu.in
 
