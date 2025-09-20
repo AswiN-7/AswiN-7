@@ -8,7 +8,7 @@
 
 ### 🚀 About Me
 
-I'm a **Data Engineer** with over **2.5 years of experience** in building and optimizing **cloud-native, scalable data pipelines** using modern data stacks. My journey has focused on crafting high-performance ETL/ELT workflows, automating cloud infrastructure, and enabling real-time data access that supports analytics and ML use cases.
+I'm a **Data Engineer** with over **3 years of experience** in building and optimizing **cloud-native, scalable data pipelines** using modern data stacks. My journey has focused on crafting high-performance ETL/ELT workflows, automating cloud infrastructure, and enabling real-time data access that supports analytics and ML use cases.
 
 I have hands-on experience designing robust systems using:
 - **AWS Services** like Glue, Lambda, Step Functions, DMS, Kinesis, S3, Redshift, CloudWatch
